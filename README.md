@@ -16,7 +16,7 @@ monitoring, automation, and AI-assisted system operations.
 
 ## Current Portfolio
 
-### CentOS 7 Legacy Server Migration(https://github.com/wenan1130/centos7-server-migration-case-study)
+### [CentOS 7 Legacy Server Migration](https://github.com/wenan1130/centos7-server-migration-case-study)
 Physical CentOS 7 server migration to new hardware,
 including backup, storage reconstruction, LVM restoration,
 boot recovery, and post-migration validation.

@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Robert
 
-<!--
-**wenan1130/wenan1130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on Linux infrastructure, server migration,
+monitoring, automation, and AI-assisted system operations.
 
-Here are some ideas to get you started:
+## Focus Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux Server Migration
+- CentOS / RHEL / Ubuntu
+- Backup & Disaster Recovery
+- LVM / Storage Migration
+- Zabbix Monitoring
+- Infrastructure Automation
+- Python Automation
+- AI-assisted Operations
+
+## Current Portfolio
+
+### CentOS 7 Legacy Server Migration
+Physical CentOS 7 server migration to new hardware,
+including backup, storage reconstruction, LVM restoration,
+boot recovery, and post-migration validation.
+
+More case studies coming soon.
